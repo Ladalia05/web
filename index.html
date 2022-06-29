@@ -12,6 +12,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,200&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
 
 <body>
@@ -45,7 +47,7 @@
 
     <h1 class="animate__animated animate__bounce">An animated element</h1>
 
-    <section id="quien_soy" class="full-screen">
+    <section id="quien_soy" class="full-screen" data-aos="fade-up-right">
         <div class="container"> 
         <h2> <i class="fa-solid fa-face-grin-squint"></i>Quién soy?</h2>
         <p>Hii Mi nombre es Dahiana, me gusta el ANIME, la musica por lo general de muchos tipos, unos cuantos
@@ -224,6 +226,11 @@
     </section>
 
     <hr>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
 
 </body>
 
