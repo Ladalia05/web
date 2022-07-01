@@ -82,32 +82,32 @@ color: white;
 }
 
 section#quien_soy{
-    background-image: linear-gradient(to top, #ec1c1c 0%, #98deeb 100%);
+    background-image: linear-gradient(to top, #ec1c1c 0%, #800800 100%);
 
 }
 
 section#cosas_enojar{
-    background-image: linear-gradient(180deg, #d7f52a 0%, #00fd87 100%);
+    background-image: linear-gradient(180deg, #6c7a1a 0%, #00575e 100%);
 
 }
 
 section#unico{
-    background-image: linear-gradient(to top, #d696fb 0%, #2cd5db 100%);
+    background-image: linear-gradient(to top, #3f0064 0%, #7a0029 100%);
 
 }
 
 section#personalidad{
-    background-image: linear-gradient(to top, #ec8ed8 0%, #ec8775 100%);
+    background-image: linear-gradient(to top, #000000 0%, #9e1800 100%);
 
 }
 
 section#inteligencia_multiple{
-    background-image: linear-gradient(to top, #009797 0%, #0fb855 100%);
+    background-image: linear-gradient(to top, #0f0047 0%, #420000 100%);
 
 }
 
 section#mis_virtudes{
-    background-image: linear-gradient(to top, #ab6df3 0%, #fd5757 100%);
+    background-image: linear-gradient(to top, #490399 0%, #a33939 100%);
 
 }
 
@@ -117,6 +117,6 @@ section#metas{
 }
 
 section#agradecimientos{
-    background-image: linear-gradient(to top, #d696fb 0%, #2cd5db 100%);
+    background-image: linear-gradient(to top, #127c80 0%, #db2c2c 100%);
 
 }
