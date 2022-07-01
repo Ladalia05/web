@@ -33,7 +33,7 @@ body {
 .menu{
    position:fixed ;
    background: black;
-    
+    width: 500px;
     height: 7%;
     margin:4px ;
     flex-direction: row;
@@ -96,3 +96,27 @@ section#unico{
 
 }
 
+section#personalidad{
+    background-image: linear-gradient(to top, #ec8ed8 0%, #ec8775 100%);
+
+}
+
+section#inteligencia_multiple{
+    background-image: linear-gradient(to top, #009797 0%, #0fb855 100%);
+
+}
+
+section#mis_virtudes{
+    background-image: linear-gradient(to top, #ab6df3 0%, #fd5757 100%);
+
+}
+
+section#metas{
+    background-image: linear-gradient(to top, #700067 0%, #0c0268 100%);
+
+}
+
+section#agradecimientos{
+    background-image: linear-gradient(to top, #d696fb 0%, #2cd5db 100%);
+
+}
